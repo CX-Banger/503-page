@@ -1728,7 +1728,7 @@ body {
   transform: scale(0.95);
 }
 
-.logo-container {
+.logo1-container {
   display: flex;
   flex-direction: column; /* place les éléments les uns en dessous des autres */
   align-items: center;    /* centre horizontalement */
@@ -1737,7 +1737,7 @@ body {
   height: 40vh;          /* optionnel : centrer sur toute la hauteur de la page */
 }
 
-.logo {
+.logo1 {
   width: 120px;
   height: 120px;
   margin-bottom: 20px; /* espace entre le logo et le texte */
@@ -1760,9 +1760,9 @@ p {
     padding: 20px;
   }
 
-  .logo {
-    width: 80px;
-    height: 80px;
+  .logo1 {
+    width: 100px;
+    height: 100px;
     margin-bottom: 15px;
   }
 
