@@ -1754,4 +1754,25 @@ p {
   color: white;
 }
 
+/* 🌐 Responsive Design pour téléphones */
+@media (max-width: 600px) {
+  body {
+    padding: 20px;
+  }
+
+  .logo {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;
+  }
+
+  h503 {
+    font-size: 1.5rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+  }
+}
+
 
