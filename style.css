@@ -1728,4 +1728,30 @@ body {
   transform: scale(0.95);
 }
 
+.logo-container {
+  display: flex;
+  flex-direction: column; /* place les éléments les uns en dessous des autres */
+  align-items: center;    /* centre horizontalement */
+  justify-content: center;/* centre verticalement si tu veux */
+  text-align: center;
+  height: 40vh;          /* optionnel : centrer sur toute la hauteur de la page */
 }
+
+.logo {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 20px; /* espace entre le logo et le texte */
+}
+
+h503 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1rem;
+  color: white;
+}
+
+
