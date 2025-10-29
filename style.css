@@ -1734,7 +1734,7 @@ body {
   align-items: center;    /* centre horizontalement */
   justify-content: center;/* centre verticalement si tu veux */
   text-align: center;
-  height: 40vh;          /* optionnel : centrer sur toute la hauteur de la page */
+  height: 60vh;          /* optionnel : centrer sur toute la hauteur de la page */
 }
 
 .logo1 {
